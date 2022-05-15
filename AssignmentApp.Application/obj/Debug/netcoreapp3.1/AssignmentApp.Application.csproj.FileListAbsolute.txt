@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\bin\Debug\netcoreapp3.1\AssignmentApp.Application.deps.json
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\bin\Debug\netcoreapp3.1\AssignmentApp.Application.dll
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\bin\Debug\netcoreapp3.1\AssignmentApp.Application.pdb
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\bin\Debug\netcoreapp3.1\AssignmentApp.Core.dll
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\bin\Debug\netcoreapp3.1\AssignmentApp.Core.pdb
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.csproj.CopyComplete
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.dll
+C:\Users\user\source\repos\AssignmentApp.API\AssignmentApp.Application\obj\Debug\netcoreapp3.1\AssignmentApp.Application.pdb
